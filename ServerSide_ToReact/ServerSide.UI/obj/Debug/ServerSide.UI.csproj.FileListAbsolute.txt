@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\ServerSide_ToReact\ServerSide.UI\obj\Debug\ServerSide.UI.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ServerSide_ToReact\ServerSide.UI\obj\Debug\ServerSide.UI.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\ServerSide_ToReact\ServerSide.UI\obj\Debug\ServerSide.UI.Form1.resources
+C:\Users\User\source\repos\ServerSide_ToReact\ServerSide.UI\obj\Debug\ServerSide.UI.Properties.Resources.resources
+C:\Users\User\source\repos\ServerSide_ToReact\ServerSide.UI\obj\Debug\ServerSide.UI.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ServerSide_ToReact\ServerSide.UI\obj\Debug\ServerSide.UI.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ServerSide_ToReact\ServerSide.UI\bin\Debug\ServerSide.UI.exe.config
+C:\Users\User\source\repos\ServerSide_ToReact\ServerSide.UI\bin\Debug\ServerSide.UI.exe
+C:\Users\User\source\repos\ServerSide_ToReact\ServerSide.UI\bin\Debug\ServerSide.UI.pdb
+C:\Users\User\source\repos\ServerSide_ToReact\ServerSide.UI\obj\Debug\ServerSide.UI.exe
+C:\Users\User\source\repos\ServerSide_ToReact\ServerSide.UI\obj\Debug\ServerSide.UI.pdb
+C:\Users\User\source\repos\ServerSide_ToReact\ServerSide.UI\bin\Debug\ServerSide.Entiteis.dll
+C:\Users\User\source\repos\ServerSide_ToReact\ServerSide.UI\bin\Debug\ServerSide.Modul.dll
+C:\Users\User\source\repos\ServerSide_ToReact\ServerSide.UI\bin\Debug\ServerSide.Entiteis.pdb
+C:\Users\User\source\repos\ServerSide_ToReact\ServerSide.UI\bin\Debug\ServerSide.Modul.pdb
+C:\Users\User\source\repos\ServerSide_ToReact\ServerSide.UI\obj\Debug\ServerSide.UI.csproj.CopyComplete

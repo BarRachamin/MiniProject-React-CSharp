@@ -1,0 +1,13 @@
+.my-tbl {
+  overflow-y: auto !important;
+  height: 100vh !important;
+  width: 85%;
+}
+
+td:nth-child(2):hover {
+  cursor: pointer;
+}
+
+.clock--td {
+  padding-left: 500px !important;
+}

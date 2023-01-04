@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\ServerSide_ToReact\Data.Sql\obj\Debug\ServerSide.Data.Sql.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ServerSide_ToReact\Data.Sql\obj\Debug\ServerSide.Data.Sql.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ServerSide_ToReact\Data.Sql\bin\Debug\Data.Sql.dll
+C:\Users\User\source\repos\ServerSide_ToReact\Data.Sql\bin\Debug\Data.Sql.pdb
+C:\Users\User\source\repos\ServerSide_ToReact\Data.Sql\bin\Debug\ServerSide.Dal.dll
+C:\Users\User\source\repos\ServerSide_ToReact\Data.Sql\bin\Debug\ServerSide.Modul.dll
+C:\Users\User\source\repos\ServerSide_ToReact\Data.Sql\bin\Debug\ServerSide.Dal.pdb
+C:\Users\User\source\repos\ServerSide_ToReact\Data.Sql\bin\Debug\ServerSide.Modul.pdb
+C:\Users\User\source\repos\ServerSide_ToReact\Data.Sql\obj\Debug\ServerSide.Data.Sql.csproj.CopyComplete
+C:\Users\User\source\repos\ServerSide_ToReact\Data.Sql\obj\Debug\Data.Sql.dll
+C:\Users\User\source\repos\ServerSide_ToReact\Data.Sql\obj\Debug\Data.Sql.pdb

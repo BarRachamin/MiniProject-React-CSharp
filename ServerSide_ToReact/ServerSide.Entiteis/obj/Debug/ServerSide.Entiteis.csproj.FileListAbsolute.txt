@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\ServerSide_ToReact\ServerSide.Entiteis\bin\Debug\ServerSide.Entiteis.dll
+C:\Users\User\source\repos\ServerSide_ToReact\ServerSide.Entiteis\bin\Debug\ServerSide.Entiteis.pdb
+C:\Users\User\source\repos\ServerSide_ToReact\ServerSide.Entiteis\bin\Debug\ServerSide.Modul.dll
+C:\Users\User\source\repos\ServerSide_ToReact\ServerSide.Entiteis\bin\Debug\ServerSide.Modul.pdb
+C:\Users\User\source\repos\ServerSide_ToReact\ServerSide.Entiteis\obj\Debug\ServerSide.Entiteis.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ServerSide_ToReact\ServerSide.Entiteis\obj\Debug\ServerSide.Entiteis.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ServerSide_ToReact\ServerSide.Entiteis\obj\Debug\ServerSide.Entiteis.csproj.CopyComplete
+C:\Users\User\source\repos\ServerSide_ToReact\ServerSide.Entiteis\obj\Debug\ServerSide.Entiteis.dll
+C:\Users\User\source\repos\ServerSide_ToReact\ServerSide.Entiteis\obj\Debug\ServerSide.Entiteis.pdb
+C:\Users\User\source\repos\ServerSide_ToReact\ServerSide.Entiteis\bin\Debug\ServerSide.Dal.dll
+C:\Users\User\source\repos\ServerSide_ToReact\ServerSide.Entiteis\bin\Debug\ServerSide.Dal.pdb
+C:\Users\User\source\repos\ServerSide_ToReact\ServerSide.Entiteis\bin\Debug\Data.Sql.dll
+C:\Users\User\source\repos\ServerSide_ToReact\ServerSide.Entiteis\bin\Debug\Data.Sql.pdb

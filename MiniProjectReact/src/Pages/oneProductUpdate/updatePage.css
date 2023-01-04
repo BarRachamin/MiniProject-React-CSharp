@@ -1,0 +1,12 @@
+.formLbl {
+  display: block;
+  text-align: center;
+  line-height: 150%;
+  font-size: 1.2em;
+}
+.form-control {
+  display: block;
+  text-align: center;
+  line-height: 150%;
+  font-size: 1.2em;
+}

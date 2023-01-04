@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\ServerSide_ToReact\ServerSide.Dal\bin\Debug\ServerSide.Dal.dll
+C:\Users\User\source\repos\ServerSide_ToReact\ServerSide.Dal\bin\Debug\ServerSide.Dal.pdb
+C:\Users\User\source\repos\ServerSide_ToReact\ServerSide.Dal\obj\Debug\ServerSide.Dal.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ServerSide_ToReact\ServerSide.Dal\obj\Debug\ServerSide.Dal.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ServerSide_ToReact\ServerSide.Dal\obj\Debug\ServerSide.Dal.dll
+C:\Users\User\source\repos\ServerSide_ToReact\ServerSide.Dal\obj\Debug\ServerSide.Dal.pdb
+C:\Users\User\source\repos\ServerSide_ToReact\ServerSide.Dal\bin\Debug\ServerSide.Modul.dll
+C:\Users\User\source\repos\ServerSide_ToReact\ServerSide.Dal\bin\Debug\ServerSide.Modul.pdb
+C:\Users\User\source\repos\ServerSide_ToReact\ServerSide.Dal\obj\Debug\ServerSide.Dal.csproj.CopyComplete
